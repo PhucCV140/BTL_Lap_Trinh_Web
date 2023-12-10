@@ -1,0 +1,40 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Dec 1, 2023, 10:27:03 PM
+    Author     : chuva
+*/
+
+
+.content_voucher_list{
+    list-style: none;
+}
+.content_voucher_item{
+    position: relative;
+    width: 90%;
+    margin-left: 5%;
+    height: 54px;
+    line-height: 54px;
+    border-bottom: 1px solid #d9dadb;
+    font-weight: 600;
+}
+.content_voucher_code_title{
+    color: #6c757d;
+    font-size: 18px;
+}
+.content_voucher_value{
+    position: absolute;
+    top: 0;
+    right: 30%;
+    font-size: 18px;
+}
+.content_voucher_delete{
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 18px;
+    text-decoration: none;
+    color: red;
+}

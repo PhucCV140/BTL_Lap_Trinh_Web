@@ -1,0 +1,58 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Dec 1, 2023, 6:44:39 PM
+    Author     : chuva
+*/
+.content_last_amount1{
+    text-align: center;
+    color: #28a745;
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+.content_last_amount2{
+    text-align: center;
+    color: #c02000;
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+.content_product_amount1{
+    background-color: #28a745;
+    color: white;
+    border-radius: 5px;
+    height: 40px;
+    width: 200px;
+    font-size: 18px;
+    margin-left: 40px;
+    line-height: 40px;
+    text-align: center;
+    margin-bottom: 16px;
+    margin-top: 16px;
+}
+.content_product_amount2{
+    background-color: #e6212d;
+    color: white;
+    border-radius: 5px;
+    height: 40px;
+    width: 200px;
+    font-size: 18px;
+    margin-left: 40px;
+    line-height: 40px;
+    text-align: center;
+    margin-bottom: 16px;
+    margin-top: 16px;
+}
+.detail_amount1{
+    font-size: 28px;
+    color: #28a745;
+    padding-left: 50px;
+    margin-bottom: 20px;
+}
+.detail_amount2{
+    font-size: 28px;
+    color: #e6212d;
+    padding-left: 50px;
+    margin-bottom: 20px;
+}
